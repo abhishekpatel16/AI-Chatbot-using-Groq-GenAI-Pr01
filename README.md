@@ -1,5 +1,5 @@
 # AI-Chatbot-using-Groq-GenAI-Pr01
-**Groq Chat Assistant** is an interactive chatbot application built with Streamlit that lets users engage with an AI model in a conversational way. It provides a customizable and dynamic chat experience, tailored to meet various user needs, from simple information gathering to expert advice and creative brainstorming.
+**Groq AI Chatbot** is an interactive chatbot application built with Streamlit that lets users engage with an AI model in a conversational way. It provides a customizable and dynamic chat experience, tailored to meet various user needs, from simple information gathering to expert advice and creative brainstorming.
 
 ## Features
 1. **AI Model and Persona Selection**
